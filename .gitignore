@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Byte-compiled / Optimized / DLL files
+__pycache__/
+*.pyc
+
+# Mac OS (ถ้ามีคนในทีมใช้ Mac)
+.DS_Store
